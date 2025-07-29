@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045837/891/partyparrot.gif?1471045837" width="30"/> Hey! Nice to see you too!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045837/891/partyparrot.gif?1471045837" width="30"/> Hey! Nice to see you..!</h1>
 <h1 align="center">I'm Bhagya Polavarapu</h1>
 
 ### I'm a passionate technologist with a focus on:
