@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm Bhagya Polavarapu </h1>  
 
-### 👋 I'm a passionate technologist exploring **Machine Learning & AI** to build impactful solutions, with a focus on:
+### 👋 I'm a passionate Researcher exploring **Machine Learning & AI** to build impactful solutions, with a focus on:
 
 - **Generative AI** 🤖: Designing and training models that create innovative content and real-world solutions.  
 - **Machine Learning & Deep Learning** 📊🧠: Developing predictive models and deep neural networks to uncover patterns, make accurate predictions, and solve complex challenges across industries.  
