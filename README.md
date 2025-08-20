@@ -2,11 +2,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1471045837/891/partyparrot.gif?1471045837" width="30"/> Hey! Nice to see you..!</h1>
 <h1 align="center">I'm Bhagya Polavarapu</h1>
 
-### I'm a passionate technologist with a focus on:
-- **Generative AI** 🤖: Creating models that produce unique content and solutions.
-- **Machine Learning and Deep Learning** 📊🧠: Delving into the development and optimization of algorithms that allow machines to learn from data, make predictions, and uncover patterns. My expertise ranges from building  predictive models to designing deep neural networks that solve complex problems across industries. 
-- **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
-- **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
+### 👋 I'm a passionate Researcher exploring **Machine Learning & AI** to build impactful solutions, with a focus on:
+
+- **Generative AI** 🤖: Designing and training models that create innovative content and real-world solutions.  
+- **Machine Learning & Deep Learning** 📊🧠: Developing predictive models and deep neural networks to uncover patterns, make accurate predictions, and solve complex challenges across industries.  
+- **Computer Vision** 🖼️: Building intelligent systems that interpret and analyze visual data in novel ways.  
+- **Natural Language Processing** 🗣️: Creating applications that understand, process, and generate human language effectively.  
+
   
 
 
