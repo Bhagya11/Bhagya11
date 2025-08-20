@@ -3,7 +3,7 @@
   Hey! Nice to see you..! 😊
 </h1>
 
-<h1 align="center">I'm Bhagya Polavarapu 😊</h1>  
+<h1 align="center">I'm Bhagya Polavarapu </h1>  
 
 ### 👋 I'm a passionate technologist exploring **Machine Learning & AI** to build impactful solutions, with a focus on:
 
