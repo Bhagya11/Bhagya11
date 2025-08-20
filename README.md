@@ -1,6 +1,9 @@
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045837/891/partyparrot.gif?1471045837" width="30"/> 
+  Hey! Nice to see you..! 😊
+</h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045837/891/partyparrot.gif?1471045837" width="30"/> Hey! Nice to see you..!</h1>
-<h1 align="center">I'm Bhagya Polavarapu</h1>
+<h1 align="center">I'm Bhagya Polavarapu 😊</h1>  
 
 ### 👋 I'm a passionate technologist exploring **Machine Learning & AI** to build impactful solutions, with a focus on:
 
@@ -44,7 +47,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
     </a>
     <a href="https://streamlit.io/" target="_blank"> 
-        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" width="100"/> 
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
     </a>
 </p>
 
